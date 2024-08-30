@@ -17,14 +17,14 @@ Enter your option: 1
 
 Add Customer Menu    
 
-Enter Customer Name: Abhishek Tripathi
+Enter Customer Name: Dharamveer Singh
 Enter Opening Balance Amount: 1000
 Account created successfully. 
 
 Account Details:- 
  
 Account Number: 0
-Account Name: Abhishek Tripathi
+Account Name: Dharamveer Singh
 Account Balance: 1000.0 Rs 
 
 Banking Menu:
@@ -39,14 +39,14 @@ Enter your option: 1
 
 Add Customer Menu
 
-Enter Customer Name: Sweta Shukla
+Enter Customer Name: Neha Chauhan
 Enter Opening Balance Amount: 5000 
 Account created successfully. 
 
 Account Details:-
 
 Account Number: 1
-Account Name: Sweta Shukla
+Account Name: Neha Chauhan
 Account Balance: 5000.0 Rs
 
 Banking Menu: 
@@ -62,8 +62,8 @@ Enter your option: 2
 Change Customer Name Menu
 
 Enter your Account Number: 1
-Enter the new name: Shweta Shukla
-Name is successfully updated from Sweta Shukla to Shweta Shukla. 
+Enter the new name: Neha
+Name is successfully updated from Neha Chauhan to Neha. 
 
 Banking Menu: 
 Select any one option from below.
@@ -78,7 +78,7 @@ Enter your option: 3
 Check Account Balance Menu
 
 Enter your Account Number: 1
-Shweta Shukla your balance is 5000.0Rs.
+Neha your balance is 5000.0Rs.
 Banking Menu:
 Select any one option from below.
 1) Add Customer
@@ -93,7 +93,7 @@ Update Account Balance Menu
 
 Enter your Account Number: 0
 Enter the amount to be deposited: 10000
-Abhishek Tripathi your updated balance is : 11000.0 RS. 
+Dharamveer Singh your updated balance is : 11000.0 RS. 
 
 Banking Menu:
 Select any one option from below.
@@ -104,9 +104,9 @@ Select any one option from below.
 5) Summary of All Accounts
 6) Quit
 Enter your option: 5
-Account Number: 0, Name: Abhishek Tripathi, Balance: 11000.0Rs. 
+Account Number: 0, Name: Dharamveer Singh, Balance: 11000.0Rs. 
 
-Account Number: 1, Name: Shweta Shukla, Balance: 5000.0Rs.
+Account Number: 1, Name: Neha, Balance: 5000.0Rs.
 
 Banking Menu:
 Select any one option from below.
